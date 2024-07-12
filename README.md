@@ -81,13 +81,8 @@ In an organizational network, it's not uncommon to have hundreds, or even thousa
 
 # Client Interaction
 
-Using the Windows 10 VM, that's configured to connect to the internal VNet, I can sign in using any of the 1000 usernames to sign into the machine.
-
+Using the Windows 10 VM, I can emulate a client interaction by signing in using any of the 1000 user accounts created from the PowerShell script.
 ![Screenshot (44)](https://github.com/user-attachments/assets/c7c795b8-0ae7-4ff5-b8bc-4ec91821ee94)
-
-
-# Conclusion
-
 
 
 
