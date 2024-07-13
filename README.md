@@ -4,7 +4,7 @@
 
 # Overview
 
-In this project, I established and configured a Windows-based network to simulate a real-world Active Directory environment. The primary objective is to gain a comprehensive understanding of Active Directory operations while also exploring the broader aspects of Windows networking. The environment consists of two virtual machines created using Oracle's VirtualBox. One machine runs Windows Server 2019, serving as the Domain Controller (DC), while the other runs Windows 10 to emulate a client experience.
+In this project, I created and configured a Windows-based network to simulate a real-world Active Directory environment. The primary objective is to gain a solid understanding of Active Directory operations while also exploring the broader aspects of Windows networking. The environment consists of two virtual machines created using Oracle's VirtualBox. One machine runs Windows Server 2019, serving as the Domain Controller (DC), while the other runs Windows 10 to emulate a client experience.
 
 # Objectives
 
@@ -38,8 +38,8 @@ This will store information about the users and computers, verify their credenti
 
 ![Screenshot (36)](https://github.com/user-attachments/assets/d46de3d0-9d05-4811-88dc-e3768b28bc36)
 
-- Create an Organizational Unit named ADMINS to put the Admin account in
-- Create user then made user a member of Domain Admins
+- Created an Organizational Unit named ADMINS to put the Admin account in
+- Created a new user, and then made the user a member of Domain Admins
 
 # Install RAS / NAT
 
