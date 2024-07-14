@@ -11,8 +11,8 @@ In this project, I created and configured a Windows-based network to simulate a 
 - Create two virtual machines (One running Windows Server 2019, and one running Windows 10)
 - Set up the Network Interface Cards (NICs) on the DC to ensure both local and internet connectivity
 - Install Active Directory Domain Services (AD DS) on the DC
-- Create an Organizational Unit and establish a dedicated Domain Admin account
-- Install RAS / NAT on the DC to allow the client machine to be on the private VNet but still have access to the internet
+- Create a dedicated Domain Admin account and store it in an Organizational Unit called ADMINS
+- Install RAS / NAT on the DC to allow the client machine to be on the private VNet, and also have access to the internet
 - Implement a DHCP server on the DC to dynamically allocate IP addresses
 - Use PowerShell to create 1000 user accounts on the network
 - Simulate a login process on the client machine using one of the newly added users
