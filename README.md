@@ -77,7 +77,7 @@ In an organizational network, it's not uncommon to have hundreds, or even thousa
 - 'New-ADOrganizationalUnit -Name _Users -ProtectedFromAccidentalDeletion $false': Creates a new organizational unit named "_Users" in the AD, which is not protected from accidental deletion
 
 **User Creation Loop**
-- The **foreach** loop iterates through each name in the **'names.txt'** file. It then extracts the first and last name in lowercase, and puts them in the variables **'$first'** & **'$last'**. After extraction, it creates a username by taking the first letter of the first name and appendding the last name in all lowercases. The loop will then output a message showing the creation of each user, and create a new AD user with specified details.
+- The **foreach** loop iterates through each name in the **'names.txt'** file. It then extracts the first and last name in lowercase, and puts them in the variables **'$first'** & **'$last'**. After extraction, it creates a username by taking the first letter of the first name and appendding the last name in all lowercases. The loop will then output a message showing the creation of each user, and create a new AD user with the specified details shown above
 
 # Client Interaction
 
