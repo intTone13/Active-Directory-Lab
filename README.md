@@ -47,7 +47,7 @@ This will store information about the users and computers, verify their credenti
 
 This will allow the client machine to access the internet through the domain controller
 - Install the Remote Access role
-- Configure routing and remote access to use NAT and select the xINTERNETx network interface which is the NIC that has access to the internet
+- Configured routing and remote access to use NAT and selected the xINTERNETx network interface which is the NIC that has access to the internet
 
 # Setup a DHCP server on the Domain Controller
 
