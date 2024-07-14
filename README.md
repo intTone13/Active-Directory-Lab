@@ -32,7 +32,7 @@ There are some things to note while configuring the NICs
 ![Screenshot (33)](https://github.com/user-attachments/assets/cc51971d-09bb-42bb-a0c9-a544ba209f93)
 
 This will store information about the users and computers, verify their credentials, and define their access rights
-- After installing the AD DS role, create the domain mydomain.com
+- After installing the AD DS role, I created the domain mydomain.com
 
 # Create dedicated Domain Admin account
 
