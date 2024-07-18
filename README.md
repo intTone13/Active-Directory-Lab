@@ -4,7 +4,7 @@
 
 # Overview
 
-In this project, I created and configured a Windows-based network to simulate a real-world Active Directory environment. The primary objective is to gain a solid understanding of Active Directory operations while also exploring the broader aspects of Windows networking. The environment consists of two virtual machines created using Oracle's VirtualBox. One machine runs Windows Server 2019, serving as the Domain Controller (DC). The other machine is running Windows 10, and it will be used to emulate a client experience.
+In this project, I set up a Windows-based network to simulate a real-world Active Directory environment. The primary objective is to gain a solid understanding of Active Directory operations while also exploring the broader aspects of Windows networking. The environment consists of two virtual machines created using Oracle's VirtualBox. One machine runs Windows Server 2019, serving as the Domain Controller (DC). The other machine is running Windows 10, and it will be used to emulate a client experience.
 
 # Objectives
 
